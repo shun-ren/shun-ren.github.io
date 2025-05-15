@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my personal website where I share:\n\nMy Final Year Project (FYP)\nFavourite Movie\nReflections on the use of GenAI\n\n\n\n\n\n📁 FYP Project\n🎬 Movie Reviews\nReflection\n\n\n\n\n\nI’m a student passionate about data, programming. This site is a simple showcase of my work and interests using Quarto.\nFeel free to explore and connect!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,145 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Reflection on the use of GenAI.html",
+    "href": "Reflection on the use of GenAI.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "FYP project.html",
+    "href": "FYP project.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "movies.html",
+    "href": "movies.html",
+    "title": "Inception",
+    "section": "",
+    "text": "Director: Christopher Nolan\nGenre: Science Fiction, Thriller\nStarring: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page\n\n\n\nInception follows Dom Cobb, a skilled thief who specializes in the art of “extraction”—stealing valuable secrets from within people’s subconscious during their dreams. Cobb is offered a chance to have his criminal history erased if he can successfully plant an idea into someone’s mind, a process known as “inception.”\n\n\n\n\n\nMind-bending plot with multiple layers of reality\n\nStunning visual effects and dream-like sequences\n\nThought-provoking themes about reality and memory\n\nA powerful emotional core about guilt and redemption\n\n\n\n\n\n\n“You mustn’t be afraid to dream a little bigger, darling.” – Eames"
+  },
+  {
+    "objectID": "movies.html#synopsis",
+    "href": "movies.html#synopsis",
+    "title": "Inception",
+    "section": "",
+    "text": "Inception follows Dom Cobb, a skilled thief who specializes in the art of “extraction”—stealing valuable secrets from within people’s subconscious during their dreams. Cobb is offered a chance to have his criminal history erased if he can successfully plant an idea into someone’s mind, a process known as “inception.”"
+  },
+  {
+    "objectID": "movies.html#why-its-great",
+    "href": "movies.html#why-its-great",
+    "title": "Inception",
+    "section": "",
+    "text": "Mind-bending plot with multiple layers of reality\n\nStunning visual effects and dream-like sequences\n\nThought-provoking themes about reality and memory\n\nA powerful emotional core about guilt and redemption"
+  },
+  {
+    "objectID": "movies.html#favorite-quote",
+    "href": "movies.html#favorite-quote",
+    "title": "Inception",
+    "section": "",
+    "text": "“You mustn’t be afraid to dream a little bigger, darling.” – Eames"
+  },
+  {
+    "objectID": "FYP project.html#project-overview",
+    "href": "FYP project.html#project-overview",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "This project aims to develop a movie recommendation system that helps users discover new movies based on their preferences. It uses machine learning techniques to suggest films similar to the ones a user has liked in the past."
+  },
+  {
+    "objectID": "FYP project.html#objectives",
+    "href": "FYP project.html#objectives",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "Collect and clean movie ratings data\nAnalyze user behavior and preferences\nBuild a recommendation engine using collaborative filtering\nDesign a simple web interface to display recommendations"
+  },
+  {
+    "objectID": "FYP project.html#tools-technologies",
+    "href": "FYP project.html#tools-technologies",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "Python (Pandas, Scikit-learn)\nJupyter Notebooks\nStreamlit for the web app interface\nTMDb API for movie details"
+  },
+  {
+    "objectID": "FYP project.html#sample-output",
+    "href": "FYP project.html#sample-output",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "The system recommends the following movies for a user who liked Inception:\n\nInterstellar\nThe Matrix\nShutter Island"
+  },
+  {
+    "objectID": "FYP project.html#future-improvements",
+    "href": "FYP project.html#future-improvements",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "Add content-based filtering using genres and keywords\n\nImprove UI/UX design for better user interaction\n\nInclude more user feedback for personalized recommendations"
+  },
+  {
+    "objectID": "FYP_project.html",
+    "href": "FYP_project.html",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "This project aims to develop a movie recommendation system that helps users discover new movies based on their preferences. It uses machine learning techniques to suggest films similar to the ones a user has liked in the past.\n\n\n\n\nCollect and clean movie ratings data\nAnalyze user behavior and preferences\nBuild a recommendation engine using collaborative filtering\nDesign a simple web interface to display recommendations\n\n\n\n\n\n\nPython (Pandas, Scikit-learn)\nJupyter Notebooks\nStreamlit for the web app interface\nTMDb API for movie details\n\n\n\n\n\n\nAdd content-based filtering using genres and keywords\n\nImprove UI/UX design for better user interaction\n\nInclude more user feedback for personalized recommendations"
+  },
+  {
+    "objectID": "FYP_project.html#project-overview",
+    "href": "FYP_project.html#project-overview",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "This project aims to develop a movie recommendation system that helps users discover new movies based on their preferences. It uses machine learning techniques to suggest films similar to the ones a user has liked in the past."
+  },
+  {
+    "objectID": "FYP_project.html#objectives",
+    "href": "FYP_project.html#objectives",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "Collect and clean movie ratings data\nAnalyze user behavior and preferences\nBuild a recommendation engine using collaborative filtering\nDesign a simple web interface to display recommendations"
+  },
+  {
+    "objectID": "FYP_project.html#tools-technologies",
+    "href": "FYP_project.html#tools-technologies",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "Python (Pandas, Scikit-learn)\nJupyter Notebooks\nStreamlit for the web app interface\nTMDb API for movie details"
+  },
+  {
+    "objectID": "FYP_project.html#sample-output",
+    "href": "FYP_project.html#sample-output",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "The system recommends the following movies for a user who liked Inception:\n\nInterstellar\nThe Matrix\nShutter Island"
+  },
+  {
+    "objectID": "FYP_project.html#future-improvements",
+    "href": "FYP_project.html#future-improvements",
+    "title": "Final Year Project: Movie Recommendation System",
+    "section": "",
+    "text": "Add content-based filtering using genres and keywords\n\nImprove UI/UX design for better user interaction\n\nInclude more user feedback for personalized recommendations"
+  },
+  {
+    "objectID": "Reflection_on_the_use_of_GenAI.html",
+    "href": "Reflection_on_the_use_of_GenAI.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "1. What is the GenAI tool you have used? Why did you choose it?\nThe GenAI tool I used is ChatGPT by OpenAI. I chose it because it is a powerful language model capable of understanding context, generating human-like responses, and assisting with a wide range of tasks—from writing and coding to idea generation and technical explanations. It is also user-friendly, fast, and widely recognized for its accuracy and flexibility.\n2. How did the GenAI tool help you in completing the assessment?\nChatGPT helped me in multiple ways during the assessment:\n• Content Writing: I used it to draft structured content for my Quarto project pages. • Debugging YAML Errors: When I encountered a YAML indentation error, ChatGPT explained the problem clearly and showed me the correct indentation format, which saved time and prevented further issues. • Clarifying Concepts: When I was unsure about how to structure the _quarto.yml navigation or embed links properly, ChatGPT provided simple explanations and code examples.\n3. What do you think are beneficial about the tool?\nSome key benefits of ChatGPT are:\n• Speed and Efficiency: It can generate clear, well-structured content instantly.\n• 24/7 Availability: It’s always available, even late at night or during tight deadlines.\n• Learning Aid: It explains complex concepts in a simple and digestible way, which is especially useful for students.\n4. What do you think are challenging about the tool?\nWhile useful, there are some challenges:\nDependence Risk: Relying too heavily on it can reduce personal problem-solving or critical thinking skills.\n5. How do you think GenAI tools will assist you for your future study or work? GenAI tools like ChatGPT will likely become everyday assistants in both study and work. They can:\n• Help with Coding & Debugging: Offer fast solutions or explanations when programming.\n• Automate Routine Tasks: Draft emails, generate reports, or summarize documents.\nIn the future, I see myself using GenAI to increase productivity, improve learning, and save time on repetitive tasks—both as a student and in a professional setting."
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "📁 FYP Project\n🎬 Movie Reviews\nReflection"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I’m a student passionate about data, programming. This site is a simple showcase of my work and interests using Quarto.\nFeel free to explore and connect!"
   }
 ]

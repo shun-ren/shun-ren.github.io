@@ -3,12 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
-  navbar:
+  title: "my personal website"
+  favicon: favicon.png
+  navbar: 
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: movies.qmd
+        text: Movie
+      - href: FYP_project.qmd
+        text: FYP Project
+      - href: Reflection_on_the_use_of_GenAI.qmd
+        text: Reflection on the use of GenAI
 
 format:
   html:
@@ -16,7 +22,10 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc-depth: 3
+    toc-location: left
+    
+
 
 
 

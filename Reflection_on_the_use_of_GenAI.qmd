@@ -1,0 +1,42 @@
+---
+title: "Reflection on the use of GenAI"
+---
+__1. What is the GenAI tool you have used? Why did you choose it?__
+
+The GenAI tool I used is ChatGPT by OpenAI. I chose it because it is a powerful language model capable of understanding context, generating human-like responses, and assisting with a wide range of tasks—from writing and coding to idea generation and technical explanations. It is also user-friendly, fast, and widely recognized for its accuracy and flexibility.
+
+__2. How did the GenAI tool help you in completing the assessment?__
+
+ChatGPT helped me in multiple ways during the assessment:
+
+• Content Writing: I used it to draft structured content for my Quarto project pages.
+• Debugging YAML Errors: When I encountered a YAML indentation error, ChatGPT explained the problem clearly and showed me the correct indentation format, which saved time and prevented further issues.
+• Clarifying Concepts: When I was unsure about how to structure the _quarto.yml navigation or embed links properly, ChatGPT provided simple explanations and code examples.
+
+__3. What do you think are beneficial about the tool?__
+
+Some key benefits of ChatGPT are:
+
+• Speed and Efficiency: It can generate clear, well-structured content instantly.
+
+• 24/7 Availability: It’s always available, even late at night or during tight deadlines.
+
+• Learning Aid: It explains complex concepts in a simple and digestible way, which is especially useful for students.
+
+__4. What do you think are challenging about the tool?__
+
+While useful, there are some challenges:
+
+Dependence Risk: Relying too heavily on it can reduce personal problem-solving or critical thinking skills.
+
+__5. How do you think GenAI tools will assist you for your future study or work?__
+GenAI tools like ChatGPT will likely become everyday assistants in both study and work. They can:
+
+• Help with Coding & Debugging: Offer fast solutions or explanations when programming.
+
+• Automate Routine Tasks: Draft emails, generate reports, or summarize documents.
+
+In the future, I see myself using GenAI to increase productivity, improve learning, and save time on repetitive tasks—both as a student and in a professional setting.
+
+
+

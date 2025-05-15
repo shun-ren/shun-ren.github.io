@@ -1,0 +1,35 @@
+---
+title: "Final Year Project: Movie Recommendation System"
+format: html
+---
+
+# Movie Recommendation System
+<img src="recommendations.jpg" width="300" />
+
+This project aims to develop a **movie recommendation system** that helps users discover new movies based on their preferences. It uses machine learning techniques to suggest films similar to the ones a user has liked in the past.
+
+---
+
+## Objectives
+
+- Collect and clean movie ratings data
+- Analyze user behavior and preferences
+- Build a recommendation engine using collaborative filtering
+- Design a simple web interface to display recommendations
+
+---
+
+## Tools & Technologies
+
+- **Python** (Pandas, Scikit-learn)
+- **Jupyter Notebooks**
+- **Streamlit** for the web app interface
+- **TMDb API** for movie details
+
+---
+
+## Future Improvements
+
+- Add content-based filtering using genres and keywords  
+- Improve UI/UX design for better user interaction  
+- Include more user feedback for personalized recommendations

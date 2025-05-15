@@ -1,0 +1,33 @@
+---
+title: "Inception"
+format: html
+---
+
+# Inception (2010)
+<img src="inception.jpg" alt="Inception Poster" width="300" />
+
+**Director:** Christopher Nolan  
+**Genre:** Science Fiction, Thriller  
+**Starring:** Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page
+
+---
+
+## Synopsis
+
+*Inception* follows Dom Cobb, a skilled thief who specializes in the art of "extraction"—stealing valuable secrets from within people's subconscious during their dreams. Cobb is offered a chance to have his criminal history erased if he can successfully plant an idea into someone's mind, a process known as "inception."
+
+---
+
+## Why It's Great
+
+- Mind-bending plot with multiple layers of reality  
+- Stunning visual effects and dream-like sequences  
+- Thought-provoking themes about reality and memory  
+- A powerful emotional core about guilt and redemption
+
+---
+
+## Favorite Quote
+
+> "You mustn't be afraid to dream a little bigger, darling." – Eames
+
